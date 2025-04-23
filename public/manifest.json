@@ -1,0 +1,9 @@
+{
+  "short_name": "NTERP",
+  "name": "출고 앱 - NTERP",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff"
+}
